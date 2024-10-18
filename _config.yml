@@ -23,5 +23,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# url: https://audiosupp.github.io
-# baseurl: /jekyll-test
+url: https://audiosupp.github.io
+baseurl: /jekyll_test
