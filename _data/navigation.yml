@@ -1,8 +1,8 @@
 - name: Home
   link: /
 - name: About
-  link: jekyll-test/about.html
+  link: /about.html
 - name: Blog
-  link: jekyll-test/blog.html
+  link: /blog.html
 - name: Staff
-  link: jekyll-test/staff.html
+  link: /staff.html
