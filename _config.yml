@@ -1,5 +1,6 @@
 url: https://audiosupp.github.io
 baseurl: /jekyll_test
+root: /jekyll_test
 
 
 collections:
