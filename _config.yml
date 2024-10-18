@@ -24,4 +24,4 @@ plugins:
   - jekyll-seo-tag
 
 url: https://audiosupp.github.io
-baseurl: /jekyll_test
+baseurl: /jekyll_test/
