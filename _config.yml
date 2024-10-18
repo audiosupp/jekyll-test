@@ -1,3 +1,7 @@
+url: https://audiosupp.github.io
+baseurl: /jekyll_test
+
+
 collections:
   authors:
     output: true
@@ -24,5 +28,3 @@ plugins:
   - jekyll-seo-tag
   - jekyll-relative-links
 
-url: https://audiosupp.github.io/jekyll_test/
-baseurl: /jekyll_test/
