@@ -321,6 +321,7 @@ DEPENDENCIES
   github-pages (~> 232)
   jekyll
   jekyll-feed
+  jekyll-relative-links
   jekyll-seo-tag
   jekyll-sitemap
 
